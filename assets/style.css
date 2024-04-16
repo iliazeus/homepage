@@ -1,0 +1,76 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Arial Narrow", Arial, sans-serif;
+
+  height: 100vh;
+
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+}
+
+body > header {
+  height: 8vh;
+
+  margin-top: 1rem;
+  margin-left: 1.5rem;
+
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+i.icon {
+  font-size: 150%;
+}
+
+body > main {
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+
+  max-height: 92vh;
+}
+
+.item_groups {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: flex-start;
+  align-content: flex-start;
+}
+
+.item_group {
+  margin-right: 1rem;
+
+  width: 16rem;
+  padding: 1rem;
+}
+
+.item_group > header {
+  font-size: x-large;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.item_group > header i.icon {
+  vertical-align: sub;
+}
+
+.item {
+  font-size: x-large;
+  padding-bottom: 0.2rem;
+}
+
+.item a,
+.item a:active,
+.item a:visited {
+  color: #35a;
+  text-decoration: none;
+}
+
+.item i.icon {
+  vertical-align: sub;
+}
