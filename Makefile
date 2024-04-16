@@ -1,14 +1,25 @@
-build: index.html
+build: build/assets/ build/index.html
 
-index.html: build/config.toml index.html.tera
+build/assets/: build/ assets/*
+	cp -r assets/ build/assets/
+
+build/index.html: build/ build/config.toml index.html.tera
 # https://github.com/guangie88/tera-cli (AUR: tera-cli)
-	tera --toml build/config.toml --file index.html.tera > index.html
+	tera --toml build/config.toml --file index.html.tera > build/index.html
 
 build/config.toml: config/*.toml build/
 	cat config/*.toml > build/config.toml
 
 build/:
-	mkdir -p build
+	mkdir -p build/
 
 clean:
-	-rm -r index.html build/
+	-rm -r build/
+
+build-docker:
+	docker build . -o type=local,dest=build/
+
+install:
+	mkdir -p ~/.local/share/
+	rm -rf ~/.local/share/homepage/
+	cp -r build/ ~/.local/share/homepage/
