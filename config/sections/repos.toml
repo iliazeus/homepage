@@ -1,0 +1,43 @@
+[sections.repos]
+name = "repos"
+icon = "ri-box-3-fill"
+
+[[sections.repos.items]]
+name = "Arch Packages"
+icon = "ri-qq-line"
+url = "https://archlinux.org/packages/"
+
+[[sections.repos.items]]
+name = "AUR"
+icon = "ri-qq-line"
+url = "https://aur.archlinux.org/"
+
+[[sections.repos.items]]
+name = "crates.io"
+icon = "ri-box-3-line"
+url = "https://crates.io/"
+
+[[sections.repos.items]]
+name = "Docker Hub"
+icon = "ri-instance-line"
+url = "https://hub.docker.com/search?q="
+
+[[sections.repos.items]]
+name = "GitHub"
+icon = "ri-github-line"
+url = "https://github.com/"
+
+[[sections.repos.items]]
+name = "NPM"
+icon = "ri-npmjs-line"
+url = "https://www.npmjs.com/"
+
+[[sections.repos.items]]
+name = "Printables"
+icon = "ri-pencil-ruler-line"
+url = "https://printables.com/"
+
+[[sections.repos.items]]
+name = "PyPI"
+icon = "ri-box-3-line"
+url = "https://pypi.org/"

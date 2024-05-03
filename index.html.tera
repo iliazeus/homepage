@@ -17,7 +17,7 @@
       Homepage
     </header>
     <main class="item_groups">
-      {% for section_key in section_order %}
+      {% for section_key in page.section_order %}
       {% set section = sections[section_key] | default(value=false) %}
       {% if section %}
       <section class="item_group">

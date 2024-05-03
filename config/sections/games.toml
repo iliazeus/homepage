@@ -1,0 +1,23 @@
+[sections.games]
+name = "games"
+icon = "ri-game-fill"
+
+[[sections.games.items]]
+name = "Kaboom"
+icon = "ri-gamepad-line"
+url = "https://pwmarcz.pl/kaboom/"
+
+[[sections.games.items]]
+name = "Monkeytype"
+icon = "ri-keyboard-line"
+url = "https://monkeytype.com/"
+
+[[sections.games.items]]
+name = "Steam"
+icon = "ri-steam-line"
+url = "https://store.steampowered.com/"
+
+[[sections.games.items]]
+name = "tetr.io"
+icon = "ri-gamepad-line"
+url = "https://tetr.io/"

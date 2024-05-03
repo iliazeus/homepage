@@ -1,0 +1,103 @@
+[sections.docs]
+name = "docs"
+icon = "ri-book-read-fill"
+
+[[sections.docs.items]]
+name = "Adesk API"
+icon = "ri-file-list-3-line"
+url = "https://adesk.ru/api-docs/"
+
+[[sections.docs.items]]
+name = "Arch Wiki"
+icon = "ri-qq-line"
+url = "https://wiki.archlinux.org/"
+
+[[sections.docs.items]]
+name = "Bash Substitutions"
+icon = "ri-terminal-box-line"
+url = "https://tldp.org/LDP/abs/html/parameter-substitution.html"
+
+[[sections.docs.items]]
+name = "Beets"
+icon = "ri-music-2-line"
+url = "https://beets.io/"
+
+[[sections.docs.items]]
+name = "Binance Spot API"
+icon = "ri-bit-coin-line"
+url = "https://github.com/binance/binance-spot-api-docs/blob/master/rest-api.md"
+
+[[sections.docs.items]]
+name = "btrfs"
+icon = "ri-hard-drive-3-line"
+url = "https://btrfs.readthedocs.io/en/latest/"
+
+[[sections.docs.items]]
+name = "http-prompt"
+icon = "ri-global-line"
+url = "https://docs.http-prompt.com/en/latest/user-guide.html"
+
+[[sections.docs.items]]
+name = "httpie"
+icon = "ri-global-line"
+url = "https://httpie.io/docs/cli"
+
+[[sections.docs.items]]
+name = "Lodash"
+icon = "ri-file-list-3-line"
+url = "https://lodash.com/docs/"
+
+[[sections.docs.items]]
+name = "MDN"
+icon = "ri-code-s-slash-line"
+url = "https://developer.mozilla.org/en-US/"
+
+[[sections.docs.items]]
+name = "MongoDB"
+icon = "ri-database-2-line"
+url = "https://docs.mongodb.com/manual/"
+
+[[sections.docs.items]]
+name = "Mongoose"
+icon = "ri-database-2-line"
+url = "https://mongoosejs.com/docs/"
+
+[[sections.docs.items]]
+name = "MUI"
+icon = "ri-pages-line"
+url = "https://mui.com/material-ui/getting-started/"
+
+[[sections.docs.items]]
+name = "NestJS"
+icon = "ri-file-list-3-line"
+url = "https://docs.nestjs.com/"
+
+[[sections.docs.items]]
+name = "Node.js"
+icon = "ri-javascript-line"
+url = "https://nodejs.org/dist/latest-v18.x/docs/api/"
+
+[[sections.docs.items]]
+name = "OpenAPI"
+icon = "ri-code-s-slash-line"
+url = "https://swagger.io/docs/specification/"
+
+[[sections.docs.items]]
+name = "OpenSCAD"
+icon = "ri-pencil-ruler-line"
+url = "https://openscad.org/cheatsheet/index.html"
+
+[[sections.docs.items]]
+name = "Redis"
+icon = "ri-dice-line"
+url = "https://redis.io/docs/latest/"
+
+[[sections.docs.items]]
+name = "TypeORM"
+icon = "ri-database-2-line"
+url = "https://typeorm.io/"
+
+[[sections.docs.items]]
+name = "VS Code API"
+icon = "ri-file-list-2-line"
+url = "https://code.visualstudio.com/api/"

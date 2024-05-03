@@ -1,0 +1,11 @@
+[page]
+
+section_order = [
+  "ppnet",
+  "people",
+  "repos",
+  "docs",
+  "tools",
+  "games",
+  "bookmarks",
+]

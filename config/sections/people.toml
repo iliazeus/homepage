@@ -1,0 +1,43 @@
+[sections.people]
+name = "people"
+icon = "ri-group-fill"
+
+[[sections.people.items]]
+name = "0xd34df00d.me"
+icon = "ri-links-line"
+url = "https://0xd34df00d.me/"
+
+[[sections.people.items]]
+name = "dr-lex.be"
+icon = "ri-settings-4-line"
+url = "https://www.dr-lex.be/"
+
+[[sections.people.items]]
+name = "justine.lol"
+icon = "ri-article-line"
+url = "https://justine.lol/"
+
+[[sections.people.items]]
+name = "mrale.ph"
+icon = "ri-user-line"
+url = "https://mrale.ph/"
+
+[[sections.people.items]]
+name = "neal.fun"
+icon = "ri-computer-line"
+url = "https://neal.fun/"
+
+[[sections.people.items]]
+name = "phoboslab.org"
+icon = "ri-checkbox-blank-circle-line"
+url = "https://phoboslab.org/"
+
+[[sections.people.items]]
+name = "rezuaq.be"
+icon = "ri-skull-line"
+url = "https://rezuaq.be/"
+
+[[sections.people.items]]
+name = "xkcd"
+icon = "ri-group-line"
+url = "https://xkcd.com/"
