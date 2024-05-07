@@ -1,88 +1,88 @@
 [sections.bookmarks]
-name = "bookmarks"
+title = "bookmarks"
 icon = "ri-bookmark-fill"
 
 [[sections.bookmarks.items]]
-name = "192.168.10.1"
+title = "192.168.10.1"
 icon = "ri-router-line"
 url = "http://192.168.10.1/"
 
 [[sections.bookmarks.items]]
-name = "Binance"
+title = "Binance"
 icon = "ri-bit-coin-line"
 url = "https://www.binance.com/en"
 
 [[sections.bookmarks.items]]
-name = "Habr"
+title = "Habr"
 icon = "ri-heading"
 url = "https://habr.com/ru/all/"
 
 [[sections.bookmarks.items]]
-name = "iliazeus.github.io"
+title = "iliazeus.github.io"
 icon = "ri-global-line"
 url = "https://iliazeus.github.io/"
 
 [[sections.bookmarks.items]]
-name = "kaz-tili.kz"
+title = "kaz-tili.kz"
 icon = "ri-kakao-talk-line"
 url = "https://kaz-tili.kz/"
 
 [[sections.bookmarks.items]]
-name = "lor.sh"
+title = "lor.sh"
 icon = "ri-mastodon-line"
 url = "https://lor.sh/"
 
 [[sections.bookmarks.items]]
-name = "Nutrition Diary"
+title = "Nutrition Diary"
 icon = "ri-scales-2-line"
 url = "https://docs.google.com/spreadsheets/d/1DcQLRWM2lJcDybjIJ6jhxi3VN9PbS6-hySNGOr2NkjU/edit#gid=661543428"
 
 [[sections.bookmarks.items]]
-name = "FoodData Central"
+title = "FoodData Central"
 icon = "ri-scales-2-line"
 url = "https://fdc.nal.usda.gov/fdc-app.html#/"
 
 [[sections.bookmarks.items]]
-name = "Proton Mail"
+title = "Proton Mail"
 icon = "ri-mail-line"
 url = "https://mail.proton.me/"
 
 [[sections.bookmarks.items]]
-name = "Reddit"
+title = "Reddit"
 icon = "ri-reddit-line"
 url = "https://reddit.com/"
 
 [[sections.bookmarks.items]]
-name = "RuTracker.org"
+title = "RuTracker.org"
 icon = "ri-download-2-line"
 url = "https://rutracker.org/forum/index.php"
 
 [[sections.bookmarks.items]]
-name = "Wallabag"
+title = "Wallabag"
 icon = "ri-git-repository-line"
 url = "https://app.wallabag.it/"
 
 [[sections.bookmarks.items]]
-name = "Random Unread"
+title = "Random Unread"
 icon = "ri-git-repository-line"
 url = "https://app.wallabag.it/unread/random"
 
 [[sections.bookmarks.items]]
-name = "Wikipedia"
+title = "Wikipedia"
 icon = "ri-book-read-line"
 url = "https://en.wikipedia.org/wiki/Main_Page"
 
 [[sections.bookmarks.items]]
-name = "Yandex Mail"
+title = "Yandex Mail"
 icon = "ri-mail-line"
 url = "https://mail.yandex.ru/lite/"
 
 [[sections.bookmarks.items]]
-name = "YouTube"
+title = "YouTube"
 icon = "ri-youtube-line"
 url = "https://youtube.com/"
 
 [[sections.bookmarks.items]]
-name = "YouTube Music"
+title = "YouTube Music"
 icon = "ri-youtube-line"
 url = "https://music.youtube.com/"

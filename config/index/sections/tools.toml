@@ -1,53 +1,53 @@
 [sections.tools]
-name = "tools"
+title = "tools"
 icon = "ri-tools-fill"
 
 [[sections.tools.items]]
-name = "crontab.guru"
+title = "crontab.guru"
 icon = "ri-time-line"
 url = "https://crontab.guru/"
 
 [[sections.tools.items]]
-name = "emojis.wiki"
+title = "emojis.wiki"
 icon = "ri-emoji-sticker-line"
 url = "https://emojis.wiki/"
 
 [[sections.tools.items]]
-name = "jwt.io"
+title = "jwt.io"
 icon = "ri-key-line"
 url = "https://jwt.io/"
 
 [[sections.tools.items]]
-name = "myip.ru"
+title = "myip.ru"
 icon = "ri-global-line"
 url = "https://myip.ru/"
 
 [[sections.tools.items]]
-name = "node.green"
+title = "node.green"
 icon = "ri-javascript-line"
 url = "https://node.green/"
 
 [[sections.tools.items]]
-name = "Remix Icons"
+title = "Remix Icons"
 icon = "ri-remixicon-line"
 url = "https://remixicon.com/"
 
 [[sections.tools.items]]
-name = "TS Playground"
+title = "TS Playground"
 icon = "ri-javascript-line"
 url = "https://www.typescriptlang.org/play/"
 
 [[sections.tools.items]]
-name = "speedscope"
+title = "speedscope"
 icon = "ri-microscope-line"
 url = "https://www.speedscope.app/"
 
 [[sections.tools.items]]
-name = "Tinkercad"
+title = "Tinkercad"
 icon = "ri-pencil-ruler-line"
 url = "https://tinkercad.com/"
 
 [[sections.tools.items]]
-name = "TRONSCAN"
+title = "TRONSCAN"
 icon = "ri-bit-coin-line"
 url = "https://tronscan.org/"

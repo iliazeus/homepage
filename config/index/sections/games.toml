@@ -1,23 +1,23 @@
 [sections.games]
-name = "games"
+title = "games"
 icon = "ri-game-fill"
 
 [[sections.games.items]]
-name = "Kaboom"
+title = "Kaboom"
 icon = "ri-gamepad-line"
 url = "https://pwmarcz.pl/kaboom/"
 
 [[sections.games.items]]
-name = "Monkeytype"
+title = "Monkeytype"
 icon = "ri-keyboard-line"
 url = "https://monkeytype.com/"
 
 [[sections.games.items]]
-name = "Steam"
+title = "Steam"
 icon = "ri-steam-line"
 url = "https://store.steampowered.com/"
 
 [[sections.games.items]]
-name = "tetr.io"
+title = "tetr.io"
 icon = "ri-gamepad-line"
 url = "https://tetr.io/"

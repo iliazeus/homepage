@@ -1,43 +1,43 @@
 [sections.people]
-name = "people"
+title = "people"
 icon = "ri-group-fill"
 
 [[sections.people.items]]
-name = "0xd34df00d.me"
+title = "0xd34df00d.me"
 icon = "ri-links-line"
 url = "https://0xd34df00d.me/"
 
 [[sections.people.items]]
-name = "dr-lex.be"
+title = "dr-lex.be"
 icon = "ri-settings-4-line"
 url = "https://www.dr-lex.be/"
 
 [[sections.people.items]]
-name = "justine.lol"
+title = "justine.lol"
 icon = "ri-article-line"
 url = "https://justine.lol/"
 
 [[sections.people.items]]
-name = "mrale.ph"
+title = "mrale.ph"
 icon = "ri-user-line"
 url = "https://mrale.ph/"
 
 [[sections.people.items]]
-name = "neal.fun"
+title = "neal.fun"
 icon = "ri-computer-line"
 url = "https://neal.fun/"
 
 [[sections.people.items]]
-name = "phoboslab.org"
+title = "phoboslab.org"
 icon = "ri-checkbox-blank-circle-line"
 url = "https://phoboslab.org/"
 
 [[sections.people.items]]
-name = "rezuaq.be"
+title = "rezuaq.be"
 icon = "ri-skull-line"
 url = "https://rezuaq.be/"
 
 [[sections.people.items]]
-name = "xkcd"
+title = "xkcd"
 icon = "ri-group-line"
 url = "https://xkcd.com/"
