@@ -12,32 +12,34 @@
   </head>
 
   <body>
-    {% for column in page.layout %}
-      <section class="column">
-        {% if loop.first %}
-          <header class="item">
-            <i class="icon {{ page.icon }}"></i>
-            {{ page.title }}
-          </header>
-        {% endif %}
-        {% for section_key in column %}
-          {% set section = sections[section_key] | default(value=false) %}
-          {% if section %}
-            <section class="section">
-              <header>
-                <i class="icon {{ section.icon | default (value = 'ri-link') }}"></i>
-                <span>{{ section.title }}</span>
-              </header>
-              {% for item in section.items %}
-                <a class="item" href="{{ item.url }}" target="{{ item.target | default (value = '_blank') }}">
-                  <i class="icon {{ item.icon | default (value = 'ri-link') }}"></i>
-                  <span>{{ item.title }}</span>
-                </a>
-              {% endfor %}
-            </section>
+    <main>
+      {% for column in page.layout %}
+        <section class="column">
+          {% if loop.first %}
+            <header class="item">
+              <i class="icon {{ page.icon }}"></i>
+              {{ page.title }}
+            </header>
           {% endif %}
-        {% endfor %}
-      </section>
-    {% endfor %}
+          {% for section_key in column %}
+            {% set section = sections[section_key] | default(value=false) %}
+            {% if section %}
+              <section class="section">
+                <header>
+                  <i class="icon {{ section.icon | default (value = 'ri-link') }}"></i>
+                  <span>{{ section.title }}</span>
+                </header>
+                {% for item in section.items %}
+                  <a class="item" href="{{ item.url }}" target="{{ item.target | default (value = '_blank') }}">
+                    <i class="icon {{ item.icon | default (value = 'ri-link') }}"></i>
+                    <span>{{ item.title }}</span>
+                  </a>
+                {% endfor %}
+              </section>
+            {% endif %}
+          {% endfor %}
+        </section>
+      {% endfor %}
+    </main>
   </body>
 </html>

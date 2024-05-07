@@ -1,35 +1,41 @@
 body {
-  padding: 1em;
   font-family: "Arial Narrow", Arial, sans-serif;
   font-size: 21pt;
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: row nowrap;
   justify-content: center;
 }
 
-body > .column {
+main {
+  margin: 1em;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+}
+
+main > .column {
   margin: 0 1rem;
   flex: 0 0;
   min-width: fit-content;
 }
 
-body > .column > header {
+main > .column > header {
   font-size: 175%;
   margin-bottom: 0.5em;
 }
 
-body > .column > .section {
+main > .column > .section {
   margin-bottom: 1.5em;
 }
 
-body > .column > .section > header {
+main > .column > .section > header {
   font-size: 125%;
   margin-bottom: 0.5em;
   display: flex;
   flex-flow: row nowrap;
 }
 
-body > .column > .section > .item {
+main > .column > .section > .item {
   margin-bottom: 0.5rem;
 }
 
