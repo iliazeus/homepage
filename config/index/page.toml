@@ -2,9 +2,9 @@
 title = "Homepage"
 icon = "ri-home-heart-fill"
 layout = [
-  ["ppnet"],
-  ["people", "repos"],
-  ["docs"],
-  ["tools", "games"],
-  ["bookmarks"],
+  ["work"],
+  ["programming"],
+  ["admin"],
+  ["e11t"],
+  ["people", "bookmarks"],
 ]

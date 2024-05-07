@@ -1,4 +1,4 @@
-build: build/assets/ build/index.html
+build: build/assets/ build/index.html build/ppnet.private.html
 
 build/assets/: build/ assets/*
 	cp -r assets/ build/assets/

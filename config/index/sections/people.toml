@@ -36,8 +36,3 @@ url = "https://phoboslab.org/"
 title = "rezuaq.be"
 icon = "ri-skull-line"
 url = "https://rezuaq.be/"
-
-[[sections.people.items]]
-title = "xkcd"
-icon = "ri-group-line"
-url = "https://xkcd.com/"

@@ -1,0 +1,38 @@
+[sections.work]
+title = "work"
+icon = "ri-building-fill"
+
+[[sections.work.items]]
+title = "PPNet Links"
+icon = "ri-building-fill"
+url = "./ppnet.private.html"
+
+[[sections.work.items]]
+title = "Slack"
+icon = "ri-chat-1-line"
+url = "https://app.slack.com/client/"
+
+[[sections.work.items]]
+title = "Calendar"
+icon = "ri-calendar-line"
+url = "https://calendar.google.com/calendar/u/0/r"
+
+[[sections.work.items]]
+title = "Gmail"
+icon = "ri-mail-line"
+url = "https://mail.google.com/mail/u/0/#inbox"
+
+[[sections.work.items]]
+title = "Notion"
+icon = "ri-article-line"
+url = "https://www.notion.so/"
+
+[[sections.work.items]]
+title = "Binance Spot API"
+icon = "ri-bit-coin-line"
+url = "https://github.com/binance/binance-spot-api-docs/blob/master/rest-api.md"
+
+[[sections.work.items]]
+title = "TRONSCAN"
+icon = "ri-bit-coin-line"
+url = "https://tronscan.org/"

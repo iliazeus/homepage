@@ -1,14 +1,16 @@
 body {
-  padding: 0.5em;
+  padding: 1em;
   font-family: "Arial Narrow", Arial, sans-serif;
   font-size: 21pt;
   display: flex;
   flex-flow: row wrap;
+  justify-content: center;
 }
 
 body > .column {
   margin: 0 1rem;
-  flex: 1 1 5rem;
+  flex: 0 0;
+  min-width: fit-content;
 }
 
 body > .column > header {
@@ -35,6 +37,10 @@ body > .column > .section > .item {
 header {
   display: flex;
   flex-flow: row nowrap;
+}
+
+.item > span {
+  white-space: pre-line;
 }
 
 i {

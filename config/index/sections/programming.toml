@@ -1,0 +1,78 @@
+[sections.programming]
+title = "programming"
+icon = "ri-file-code-line"
+
+[[sections.programming.items]]
+title = "Bash Substitutions"
+icon = "ri-terminal-box-line"
+url = "https://tldp.org/LDP/abs/html/parameter-substitution.html"
+
+[[sections.programming.items]]
+title = "crates.io"
+icon = "ri-box-3-line"
+url = "https://crates.io/"
+
+[[sections.programming.items]]
+title = "crontab.guru"
+icon = "ri-time-line"
+url = "https://crontab.guru/"
+
+[[sections.programming.items]]
+title = "Docker Hub"
+icon = "ri-instance-line"
+url = "https://hub.docker.com/search?q="
+
+[[sections.programming.items]]
+title = "GitHub"
+icon = "ri-github-line"
+url = "https://github.com/"
+
+[[sections.programming.items]]
+title = "jwt.io"
+icon = "ri-key-line"
+url = "https://jwt.io/"
+
+[[sections.programming.items]]
+title = "MDN"
+icon = "ri-code-s-slash-line"
+url = "https://developer.mozilla.org/en-US/"
+
+[[sections.programming.items]]
+title = "Node.js"
+icon = "ri-javascript-line"
+url = "https://nodejs.org/dist/latest/docs/api/"
+
+[[sections.programming.items]]
+title = "node.green"
+icon = "ri-javascript-line"
+url = "https://node.green/"
+
+[[sections.programming.items]]
+title = "NPM"
+icon = "ri-npmjs-line"
+url = "https://www.npmjs.com/"
+
+[[sections.programming.items]]
+title = "OpenAPI"
+icon = "ri-code-s-slash-line"
+url = "https://swagger.io/docs/specification/"
+
+[[sections.programming.items]]
+title = "PyPI"
+icon = "ri-box-3-line"
+url = "https://pypi.org/"
+
+[[sections.programming.items]]
+title = "speedscope"
+icon = "ri-microscope-line"
+url = "https://www.speedscope.app/"
+
+[[sections.programming.items]]
+title = "TS Playground"
+icon = "ri-javascript-line"
+url = "https://www.typescriptlang.org/play/"
+
+[[sections.programming.items]]
+title = "VS Code API"
+icon = "ri-file-list-2-line"
+url = "https://code.visualstudio.com/api/"
