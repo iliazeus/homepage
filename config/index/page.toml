@@ -1,12 +1,10 @@
 [page]
 title = "Homepage"
 icon = "ri-home-heart-fill"
-sections = [
-  "ppnet",
-  "people",
-  "repos",
-  "docs",
-  "tools",
-  "games",
-  "bookmarks",
+layout = [
+  ["ppnet"],
+  ["people", "repos"],
+  ["docs"],
+  ["tools", "games"],
+  ["bookmarks"],
 ]

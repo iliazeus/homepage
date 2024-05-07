@@ -5,9 +5,9 @@ build/assets/: build/ assets/*
 
 build/%.html: build/%.toml template.html.tera
 # https://github.com/guangie88/tera-cli (AUR: tera-cli)
-	tera --toml build/$*.toml --file template.html.tera > build/index.html
+	tera --toml build/$*.toml --file template.html.tera > build/$*.html
 
-build/%.toml: config/%/*.toml
+build/%.toml: config/%/*.toml config/%/sections/*.toml
 	cat config/$*/*.toml config/$*/sections/*.toml > build/$*.toml
 
 build/:
