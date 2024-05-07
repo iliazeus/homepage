@@ -3,12 +3,12 @@ build: build/assets/ build/index.html
 build/assets/: build/ assets/*
 	cp -r assets/ build/assets/
 
-build/index.html: build/ build/config.toml index.html.tera
+build/%.html: build/%.toml template.html.tera
 # https://github.com/guangie88/tera-cli (AUR: tera-cli)
-	tera --toml build/config.toml --file index.html.tera > build/index.html
+	tera --toml build/$*.toml --file template.html.tera > build/index.html
 
-build/config.toml: config/*.toml config/sections/*.toml build/
-	cat config/*.toml config/sections/*.toml > build/config.toml
+build/%.toml: config/%/*.toml
+	cat config/$*/*.toml config/$*/sections/*.toml > build/$*.toml
 
 build/:
 	mkdir -p build/

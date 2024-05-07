@@ -1,6 +1,7 @@
 [page]
-
-section_order = [
+title = "Homepage"
+icon = "ri-home-heart-fill"
+sections = [
   "ppnet",
   "people",
   "repos",

@@ -8,16 +8,16 @@
     <link rel="stylesheet" href="assets/remixicon.css" />
     <link rel="stylesheet" href="assets/style.css" />
 
-    <title>Homepage</title>
+    <title>{{ page.title }}</title>
   </head>
 
   <body>
     <header>
-      <i class="icon ri-home-heart-fill"></i>
-      Homepage
+      <i class="icon {{ page.icon }}"></i>
+      {{ page.title }}
     </header>
     <main class="item_groups">
-      {% for section_key in page.section_order %}
+      {% for section_key in page.sections %}
       {% set section = sections[section_key] | default(value=false) %}
       {% if section %}
       <section class="item_group">
