@@ -4,8 +4,8 @@ build/assets/: build/ assets/*
 	cp -r assets/ build/assets/
 
 build/%.html: build/%.toml template.html.tera
-# https://github.com/guangie88/tera-cli (AUR: tera-cli)
-	tera --toml build/$*.toml --file template.html.tera > build/$*.html
+# https://github.com/chevdor/tera-cli (AUR: teracli)
+	tera build/$*.toml --template template.html.tera --out build/$*.html
 
 build/%.toml: config/%/*.toml config/%/sections/*.toml
 	cat config/$*/*.toml config/$*/sections/*.toml > build/$*.toml
@@ -15,9 +15,6 @@ build/:
 
 clean:
 	-rm -r build/
-
-build-docker:
-	docker build . -o type=local,dest=build/
 
 install:
 	mkdir -p ~/.local/share/
