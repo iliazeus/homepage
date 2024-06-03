@@ -8,19 +8,14 @@ icon = "ri-router-line"
 url = "http://192.168.10.1/"
 
 [[sections.admin.items]]
+title = "Arch News"
+icon = "ri-qq-line"
+url = "https://archlinux.org/"
+
+[[sections.admin.items]]
 title = "Arch Wiki"
 icon = "ri-qq-line"
 url = "https://wiki.archlinux.org/"
-
-[[sections.admin.items]]
-title = "Arch Packages"
-icon = "ri-qq-line"
-url = "https://archlinux.org/packages/"
-
-[[sections.admin.items]]
-title = "AUR"
-icon = "ri-qq-line"
-url = "https://aur.archlinux.org/"
 
 [[sections.admin.items]]
 title = "Beets"

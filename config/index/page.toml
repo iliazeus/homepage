@@ -4,7 +4,7 @@ icon = "ri-home-heart-fill"
 layout = [
   ["work"],
   ["programming"],
-  ["admin"],
+  ["admin", "box"],
   ["e11t"],
   ["people", "bookmarks"],
 ]
