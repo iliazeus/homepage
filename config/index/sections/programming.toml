@@ -58,6 +58,11 @@ icon = "ri-code-s-slash-line"
 url = "https://swagger.io/docs/specification/"
 
 [[sections.programming.items]]
+title = "PICO-8 Manual"
+icon = "ri-tv-line"
+url = "https://www.lexaloffle.com/dl/docs/pico-8_manual.html"
+
+[[sections.programming.items]]
 title = "PyPI"
 icon = "ri-box-3-line"
 url = "https://pypi.org/"

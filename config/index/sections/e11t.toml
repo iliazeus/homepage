@@ -3,6 +3,11 @@ title = "e11t"
 icon = "ri-cake-3-fill"
 
 [[sections.e11t.items]]
+title = "anilibria.tv"
+icon = "ri-tv-line"
+url = "https://www.anilibria.tv/pages/schedule.php"
+
+[[sections.e11t.items]]
 title = "Habr"
 icon = "ri-heading"
 url = "https://habr.com/ru/all/"

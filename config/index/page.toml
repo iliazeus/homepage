@@ -2,7 +2,6 @@
 title = "Homepage"
 icon = "ri-home-heart-fill"
 layout = [
-  ["work"],
   ["programming"],
   ["admin", "box"],
   ["e11t"],
