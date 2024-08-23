@@ -1,18 +1,18 @@
-[sections.box]
+[section.box]
 title = "box"
 icon = "ri-home-wifi-line"
 
-[[sections.box.items]]
+[[section.box.item]]
 title = "Kodi"
 icon = "ri-folder-music-line"
 url = "http://iliazeus-box.lan:8080/"
 
-[[sections.box.items]]
+[[section.box.item]]
 title = "Transmission"
 icon = "ri-download-cloud-line"
 url = "http://iliazeus-box.lan:9091/transmission/web/"
 
-[[sections.box.items]]
+[[section.box.item]]
 title = "Syncthing"
 icon = "ri-upload-cloud-line"
 url = "http://iliazeus-box.lan:8384/"

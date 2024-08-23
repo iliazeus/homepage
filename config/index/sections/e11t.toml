@@ -1,78 +1,78 @@
-[sections.e11t]
+[section.e11t]
 title = "e11t"
 icon = "ri-cake-3-fill"
 
-[[sections.e11t.items]]
+[[section.e11t.item]]
 title = "anilibria.top"
 icon = "ri-tv-line"
 url = "https://anilibria.top/anime/releases/latest/"
 
-[[sections.e11t.items]]
+[[section.e11t.item]]
 title = "Habr"
 icon = "ri-heading"
 url = "https://habr.com/ru/all/"
 
-[[sections.e11t.items]]
+[[section.e11t.item]]
 title = "Kaboom"
 icon = "ri-gamepad-line"
 url = "https://pwmarcz.pl/kaboom/"
 
-[[sections.e11t.items]]
+[[section.e11t.item]]
 title = "lor.sh"
 icon = "ri-mastodon-line"
 url = "https://lor.sh/"
 
-[[sections.e11t.items]]
+[[section.e11t.item]]
 title = "Monkeytype"
 icon = "ri-keyboard-line"
 url = "https://monkeytype.com/"
 
-[[sections.e11t.items]]
+[[section.e11t.item]]
 title = "Reddit"
 icon = "ri-reddit-line"
 url = "https://reddit.com/"
 
-[[sections.e11t.items]]
+[[section.e11t.item]]
 title = "RuTracker.org"
 icon = "ri-download-2-line"
 url = "https://rutracker.org/forum/index.php"
 
-[[sections.e11t.items]]
+[[section.e11t.item]]
 title = "Steam"
 icon = "ri-steam-line"
 url = "https://store.steampowered.com/"
 
-[[sections.e11t.items]]
+[[section.e11t.item]]
 title = "tetr.io"
 icon = "ri-gamepad-line"
 url = "https://tetr.io/"
 
-[[sections.e11t.items]]
+[[section.e11t.item]]
 title = "Wallabag"
 icon = "ri-git-repository-line"
 url = "https://app.wallabag.it/"
 
-[[sections.e11t.items]]
+[[section.e11t.item]]
 title = "Random Unread"
 icon = "ri-git-repository-line"
 url = "https://app.wallabag.it/unread/random"
 
-[[sections.e11t.items]]
+[[section.e11t.item]]
 title = "Wikipedia"
 icon = "ri-book-read-line"
 url = "https://en.wikipedia.org/wiki/Main_Page"
 
-[[sections.e11t.items]]
+[[section.e11t.item]]
 title = "xkcd"
 icon = "ri-group-line"
 url = "https://xkcd.com/"
 
-[[sections.e11t.items]]
+[[section.e11t.item]]
 title = "YouTube"
 icon = "ri-youtube-line"
 url = "https://youtube.com/"
 
-[[sections.e11t.items]]
+[[section.e11t.item]]
 title = "YouTube Music"
 icon = "ri-youtube-line"
 url = "https://music.youtube.com/"

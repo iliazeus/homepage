@@ -1,38 +1,38 @@
-[sections.people]
+[section.people]
 title = "people"
 icon = "ri-group-fill"
 
-[[sections.people.items]]
+[[section.people.item]]
 title = "0xd34df00d.me"
 icon = "ri-links-line"
 url = "https://0xd34df00d.me/"
 
-[[sections.people.items]]
+[[section.people.item]]
 title = "dr-lex.be"
 icon = "ri-settings-4-line"
 url = "https://www.dr-lex.be/"
 
-[[sections.people.items]]
+[[section.people.item]]
 title = "justine.lol"
 icon = "ri-article-line"
 url = "https://justine.lol/"
 
-[[sections.people.items]]
+[[section.people.item]]
 title = "mrale.ph"
 icon = "ri-user-line"
 url = "https://mrale.ph/"
 
-[[sections.people.items]]
+[[section.people.item]]
 title = "neal.fun"
 icon = "ri-computer-line"
 url = "https://neal.fun/"
 
-[[sections.people.items]]
+[[section.people.item]]
 title = "phoboslab.org"
 icon = "ri-checkbox-blank-circle-line"
 url = "https://phoboslab.org/"
 
-[[sections.people.items]]
+[[section.people.item]]
 title = "rezuaq.be"
 icon = "ri-skull-line"
 url = "https://rezuaq.be/"

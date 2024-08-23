@@ -1,83 +1,83 @@
-[sections.programming]
+[section.programming]
 title = "programming"
 icon = "ri-file-code-line"
 
-[[sections.programming.items]]
+[[section.programming.item]]
 title = "Bash Substitutions"
 icon = "ri-terminal-box-line"
 url = "https://tldp.org/LDP/abs/html/parameter-substitution.html"
 
-[[sections.programming.items]]
+[[section.programming.item]]
 title = "crates.io"
 icon = "ri-box-3-line"
 url = "https://crates.io/"
 
-[[sections.programming.items]]
+[[section.programming.item]]
 title = "crontab.guru"
 icon = "ri-time-line"
 url = "https://crontab.guru/"
 
-[[sections.programming.items]]
+[[section.programming.item]]
 title = "Docker Hub"
 icon = "ri-instance-line"
 url = "https://hub.docker.com/search?q="
 
-[[sections.programming.items]]
+[[section.programming.item]]
 title = "GitHub"
 icon = "ri-github-line"
 url = "https://github.com/"
 
-[[sections.programming.items]]
+[[section.programming.item]]
 title = "jwt.io"
 icon = "ri-key-line"
 url = "https://jwt.io/"
 
-[[sections.programming.items]]
+[[section.programming.item]]
 title = "MDN"
 icon = "ri-code-s-slash-line"
 url = "https://developer.mozilla.org/en-US/"
 
-[[sections.programming.items]]
+[[section.programming.item]]
 title = "Node.js"
 icon = "ri-javascript-line"
 url = "https://nodejs.org/dist/latest/docs/api/"
 
-[[sections.programming.items]]
+[[section.programming.item]]
 title = "node.green"
 icon = "ri-javascript-line"
 url = "https://node.green/"
 
-[[sections.programming.items]]
+[[section.programming.item]]
 title = "NPM"
 icon = "ri-npmjs-line"
 url = "https://www.npmjs.com/"
 
-[[sections.programming.items]]
+[[section.programming.item]]
 title = "OpenAPI"
 icon = "ri-code-s-slash-line"
 url = "https://swagger.io/docs/specification/"
 
-[[sections.programming.items]]
+[[section.programming.item]]
 title = "PICO-8 Manual"
 icon = "ri-tv-line"
 url = "https://www.lexaloffle.com/dl/docs/pico-8_manual.html"
 
-[[sections.programming.items]]
+[[section.programming.item]]
 title = "PyPI"
 icon = "ri-box-3-line"
 url = "https://pypi.org/"
 
-[[sections.programming.items]]
+[[section.programming.item]]
 title = "speedscope"
 icon = "ri-microscope-line"
 url = "https://www.speedscope.app/"
 
-[[sections.programming.items]]
+[[section.programming.item]]
 title = "TS Playground"
 icon = "ri-javascript-line"
 url = "https://www.typescriptlang.org/play/"
 
-[[sections.programming.items]]
+[[section.programming.item]]
 title = "VS Code API"
 icon = "ri-file-list-2-line"
 url = "https://code.visualstudio.com/api/"
