@@ -3,9 +3,9 @@ title = "bookmarks"
 icon = "ri-bookmark-fill"
 
 [[section.bookmarks.item]]
-title = "iliazeus.github.io"
+title = "iliazeus.lol"
 icon = "ri-global-line"
-url = "https://iliazeus.github.io/"
+url = "https://iliazeus.lol/"
 
 [[section.bookmarks.item]]
 title = "emojis.wiki"

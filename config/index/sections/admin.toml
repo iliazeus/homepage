@@ -20,7 +20,7 @@ url = "https://wiki.archlinux.org/"
 [[section.admin.item]]
 title = "Beets"
 icon = "ri-music-2-line"
-url = "https://beets.io/"
+url = "https://beets.readthedocs.io/"
 
 [[section.admin.item]]
 title = "btrfs"
