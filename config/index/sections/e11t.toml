@@ -28,6 +28,11 @@ icon = "ri-keyboard-line"
 url = "https://monkeytype.com/"
 
 [[section.e11t.item]]
+title = "nyaa.si"
+icon = "ri-tv-line"
+url = "https://nyaa.si/"
+
+[[section.e11t.item]]
 title = "Reddit"
 icon = "ri-reddit-line"
 url = "https://reddit.com/"
